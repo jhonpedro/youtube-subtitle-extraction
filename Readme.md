@@ -14,6 +14,6 @@ Exemplo Lógica `2`: Vídeo com 500 substantivos, somente 270 substantivos líqu
 
 # Algorithm for resource types
 
-Esse código basicamente exige uma tabela .csv, nela a primeira coluna devem ter os links dos vídeos do youtube, na segunda os tópicos que desejam buscar nas legendas do vídeo.
+Esse código basicamente exige uma tabela .csv, nela a primeira coluna deve ter os links dos vídeos do youtube, na segunda os tópicos que desejam buscar nas legendas do vídeo.
 
-Exemplo: Buscar 4 tópicos: matemática, português, artes, história. Caso o vídeo contenha na legenda essas palavras a 3 coluna do .csv que sera gerado registrara `100`, caso contenha somente a palavra matemática será registrado `20` 
+Exemplo: Buscar 4 tópicos: matemática, português, artes, história. Caso a legenda do vídeo contenha essas palavras, a 3 coluna do .csv que sera gerado registrará `100`, caso contenha somente a palavra matemática será registrado `20`.
